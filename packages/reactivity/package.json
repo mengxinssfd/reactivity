@@ -1,0 +1,16 @@
+{
+  "name": "reactivity",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "buildOptions": {
+    "name": "VueReactivity"
+  },
+  "scripts": {
+    "dev": "node ../../scripts/dev.js reactivity -f esm -w",
+    "build-esm": "node ../../scripts/dev.js reactivity -f esm"
+  },
+  "dependencies": {
+    "@vue/shared": "workspace:1.0.0"
+  }
+}

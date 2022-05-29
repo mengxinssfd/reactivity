@@ -1,0 +1,14 @@
+{
+  "name": "@vue/shared",
+  "version": "1.0.0",
+  "main": "dist/index.esm.js",
+  "buildOptions": {
+    "name": "VueShared"
+  },
+  "scripts": {
+    "build-esm": "node ../../scripts/dev.js shared -f esm"
+  },
+  "types": "src/index.ts",
+  "dependencies": {
+  }
+}
