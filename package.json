@@ -1,0 +1,23 @@
+{
+  "name": "reactivity",
+  "version": "1.0.0",
+  "description": "vue reactivity",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengxinssfd/reactivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengxinssfd/reactivity/issues"
+  },
+  "homepage": "https://github.com/mengxinssfd/reactivity#readme",
+  "devDependencies": {
+    "esbuild": "^0.14.41",
+    "minimist": "^1.2.6",
+    "typescript": "^4.7.2"
+  }
+}
