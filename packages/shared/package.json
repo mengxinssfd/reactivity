@@ -8,6 +8,15 @@
   "scripts": {
     "build-esm": "node ../../scripts/dev.js shared -f esm"
   },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengxinssfd/reactivity/issues"
+  },
+  "homepage": "https://github.com/mengxinssfd/reactivity#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengxinssfd/reactivity.git"
+  },
   "types": "src/index.ts",
   "dependencies": {
   }

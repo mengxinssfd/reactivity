@@ -10,7 +10,12 @@
     "dev": "node ../../scripts/dev.js reactivity -f esm -w",
     "build-esm": "node ../../scripts/dev.js reactivity -f esm"
   },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengxinssfd/reactivity/issues"
+  },
+  "homepage": "https://github.com/mengxinssfd/reactivity#readme",
   "dependencies": {
-    "@vue/shared": "workspace:1.0.0"
+    "@vue/shared": "1.0.0"
   }
 }
