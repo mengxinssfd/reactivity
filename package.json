@@ -4,6 +4,7 @@
   "description": "vue reactivity",
   "main": "index.js",
   "scripts": {
+    "build-esm": "pnpm run --filter shared build-esm"
   },
   "repository": {
     "type": "git",
